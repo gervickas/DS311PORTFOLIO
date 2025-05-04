@@ -30,23 +30,26 @@ To learn more about me, you can visit my [github](https://github.com/YOURACCOUNT
     </tr> 
 </table>
 
-## Project 2 Title
+## After the Final Buzzer: The Hidden Cost of Chasing the NBA Dream
 
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj2.png"  alt="2" >
-        </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
-            <p>
-            Briefly describe Project 2<br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...<a href="./Project 2/README.md">Learn more</a>
-            <br><br>
-            <i>Tools used: Python, Pandas, Matplotlib</i>
-            </p>
-        </td>
-    </tr> 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="padding: 10px; width: 30%; border: none;">
+      <img src="../Images/proj2.png" alt="NBA Infographic" width="100%">
+    </td>
+    <td style="padding: 10px; width: 70%; border: none;" valign="top">
+      <p>
+        This infographic explores the tough reality behind the dream of making it to the NBA. Using a clear pyramid layout, 
+        it shows how rare it is for a high school basketball player to reach the professional level — and what life looks like 
+        beyond the game. From career length and salary data to financial struggles after retirement, this project highlights 
+        the odds, risks, and truths behind chasing basketball success.
+        <br><br>
+        <i>Tools used: Canva, Excel, Markdown</i>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 ## Project 3 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">

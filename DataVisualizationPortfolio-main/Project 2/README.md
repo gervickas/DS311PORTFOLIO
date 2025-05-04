@@ -1,6 +1,6 @@
 # After the Final Buzzer: The Hidden Cost of Chasing the NBA Dream
 
-![NBA Dream Infographic](Title%20(1).pdf)
+![NBA Dream Infographic](proj2.png)
 
 ## Project Overview
 

@@ -7,7 +7,7 @@ I enjoy transforming raw data into meaningful visuals, highlighting key insights
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
+To learn more about me, you can visit my [github](https://github.com/gervickas), or read my [CV](Images/CV.pdf).
 
 
 ---

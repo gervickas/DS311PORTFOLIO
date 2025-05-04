@@ -1,13 +1,13 @@
 # Data Visualization Portfolio
 
 ## About Me
-Use this space to introduce yourself to an audience (think about your target audience). Tell them about who you are, your skills, your strengths, your interests, and career aspirations.
+Hi, I'm Gytis Gervickas, a student at Gettysburg College majoring in Mathematical Economics and minoring in Data Science. I’m passionate about data, design, and storytelling, especially where they intersect with the world of sports and business. This portfolio showcases some of the projects I’ve worked on, including visualizations that explore basketball data and retail market analysis.
 
-Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
+I enjoy transforming raw data into meaningful visuals, highlighting key insights. Whether it’s showing how few high school athletes make it to the NBA or analyzing grocery retail trends in the Baltics, I’m drawn to projects that combine analysis with strong visual communication.
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [personal website](your_web_address), my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
+To learn more about me, you can visit my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
 
 
 ---

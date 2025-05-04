@@ -43,12 +43,14 @@ To learn more about me, you can visit my [github](https://github.com/YOURACCOUNT
         it shows how rare it is for a high school basketball player to reach the professional level — and what life looks like 
         beyond the game. From career length and salary data to financial struggles after retirement, this project highlights 
         the odds, risks, and truths behind chasing basketball success.
+        <a href="./Project 2/README.md">Learn more</a>
         <br><br>
         <i>Tools used: Canva, Excel, Markdown</i>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ## Project 3 Title

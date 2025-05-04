@@ -45,7 +45,7 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
         the odds, risks, and truths behind chasing basketball success.
         <a href="./Project 2/README.md">Learn more</a>
         <br><br>
-        <i>Tools used: Canva, Excel, Markdown</i>
+        <i>Tools used: Canva, Excel</i>
       </p>
     </td>
   </tr>

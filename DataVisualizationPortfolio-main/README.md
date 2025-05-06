@@ -58,7 +58,7 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="padding: 10px; width: 30%; border: none;">
-      <img src="../Images/proj3.png" alt="Baltic Grocery Infographic" width="100%">
+      <img src="../Images/Baltic.pdf" alt="Baltic Grocery Infographic" width="100%">
     </td>
     <td style="padding: 10px; width: 70%; border: none;" valign="top">
       <p>

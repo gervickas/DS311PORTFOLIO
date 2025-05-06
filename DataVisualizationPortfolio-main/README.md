@@ -12,23 +12,26 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
 
 ---
 
-## Project 1 Title
+## Stephen Curry Shot Chart (2015–16 Season)
 
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj1.png"  alt="1" >
-        </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
-            <p>
-            Briefly describe the project, the motivation, and/or the goal.
-            This project explores [brief description of the project]. I was inspired by [refer to inspiration]. The goal was to [objective of the project]. ... <a href="./Project 1/README.md">Learn more</a>
-            <br><br>
-            <i>Tools used: Python, Pandas, Plotly, Canva</i>
-            </p>
-        </td>
-    </tr> 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="padding: 10px; width: 30%; border: none;">
+      <img src="../Images/curry_shotchart.png" alt="Stephen Curry Shot Chart" width="100%">
+    </td>
+    <td style="padding: 10px; width: 70%; border: none;" valign="top">
+      <p>
+        This project visualizes every made and missed shot by Stephen Curry during the 2015–16 NBA regular season. 
+        Inspired by a chart originally found on Reddit and created in R, I recreated the entire graphic using Python, 
+        manually transforming the shot location data and tweaking the layout for clarity and accuracy.
+        <a href="./Project 1/README.md">Learn more</a>
+        <br><br>
+        <i>Tools used: Python (Matplotlib), JSON data, VS Code</i>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 ## After the Final Buzzer: The Hidden Cost of Chasing the NBA Dream
 

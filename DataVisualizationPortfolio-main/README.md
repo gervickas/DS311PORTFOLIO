@@ -53,19 +53,23 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
 
 
 
-## Project 3 Title
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
-        <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj3.png" alt="3" >
-        </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
-            <p>
-            Briefly describe Project 3 <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum... <a href="./Project 3/README.md">Learn more</a>
-            <br><br>
-            <i>Tools used: Canva, Recraft</i>
-            </p>
-        </td>
-    </tr> 
+## Baltic Grocery Retail Market Analysis
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="padding: 10px; width: 30%; border: none;">
+      <img src="../Images/proj3.png" alt="Baltic Grocery Infographic" width="100%">
+    </td>
+    <td style="padding: 10px; width: 70%; border: none;" valign="top">
+      <p>
+        This project analyzes the grocery retail market in Lithuania, Latvia, and Estonia. It explores market dynamics, 
+        concentration, trends, and strategic opportunities. Built from my internship case study, this analysis highlights 
+        potential investments such as a Costco-style model, rural consolidation, and e-commerce growth.
+        <a href="./Project 3/README.md">Learn more</a>
+        <br><br>
+        <i>Tools used: PowerPoint, Excel, market research reports</i>
+      </p>
+    </td>
+  </tr>
 </table>
+

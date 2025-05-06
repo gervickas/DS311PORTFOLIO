@@ -67,7 +67,7 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
         potential investments such as a Costco-style model, rural consolidation, and e-commerce growth.
         <a href="./Project 3/README.md">Learn more</a>
         <br><br>
-        <i>Tools used: PowerPoint, Excel, market research reports</i>
+        <i>Tools used: Canva, PowerPoint, Excel, market research reports</i>
       </p>
     </td>
   </tr>

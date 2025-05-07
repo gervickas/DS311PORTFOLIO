@@ -17,7 +17,7 @@ To learn more about me, you can visit my [github](https://github.com/gervickas),
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="padding: 10px; width: 30%; border: none;">
-      <img src="../Images/curry_shotchart.png" alt="Stephen Curry Shot Chart" width="100%">
+      <img src="./Images/Curry.png" alt="Stephen Curry Shot Chart" width="100%">
     </td>
     <td style="padding: 10px; width: 70%; border: none;" valign="top">
       <p>

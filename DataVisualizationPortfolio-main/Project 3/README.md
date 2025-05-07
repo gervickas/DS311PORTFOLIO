@@ -2,6 +2,7 @@
 
 ![NBA Dream Infographic](../Images/Baltic.png)
 
+
 This project is based on a real-world internship assignment in which I analyzed the grocery retail market across the Baltic States — Lithuania, Latvia, and Estonia. The focus was to understand the structure, current trends, and to identify investable opportunities using strategic, financial, and market data.
 
 ## Overview
